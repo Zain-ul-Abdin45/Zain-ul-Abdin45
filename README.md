@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate with other Content Creators
 - 🐱‍🚀 Looking forward to work and contribute to open Source plateform and learn new techs.
 - ⚡ Facts: I love to listen music, watch football and really love to learn everyday.
-- 📫 How to reach me 
-
-<!---
-Zain-ul-Abdin45/Zain-ul-Abdin45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me on 
+- 📧zainkhoso45@gmail.com
+- 🔗https://www.linkedin.com/in/zain-ul-abdin-ds245/
+- Highly motivated data nerd, that always in a mood to explore the data, drive, manipulate, process, analyze and then give insights. A hustler and always in Persuit to learn more and more about new technology regarding data and machine learning tech.
