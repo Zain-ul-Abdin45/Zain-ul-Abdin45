@@ -12,6 +12,6 @@
 
 
 
-- Techs that I knowledge in deep, others are being explored.. will mention soon.
+- Worked in different techs and have good knowledge in following graph developed in Power BI. While currently exploring other techs..that will be mentioned soon.
 
 ![mykils_page-0001](https://user-images.githubusercontent.com/47116254/142659424-1e28fe66-cc4b-4950-bb01-13331636ed9a.jpg)
