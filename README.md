@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **dataflow over systems**
 
-- 🌱 I’m currently learning **AWS Kensis and S3 Bucket**
+- 🌱 I’m currently learning **AWS Services**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2](https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2)
 
