@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS Services**
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2](https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2)
+- 👨‍💻 All of my projects are available at [https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2](https://tremendous-slice-b86.notion.site/Zain-ul-Abdin-Data-Engineer-14a106eab692424d90c6e6f51fdaf641)
 
 - 💬 Ask me about **Data Pipelines, Data Modeling, Data Orchestrations, ETL, Python, Scala, SQL**
 
