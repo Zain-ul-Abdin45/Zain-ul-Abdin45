@@ -1,27 +1,107 @@
-<h1 align="center">Hi 👋, I'm Zain Ul Abdin</h1>
-<h3 align="center">I possess two years of hands-on experience as a data engineer, actively engaged with a diverse range of technologies including Python, Scala, and Java. My proficiency extends to big data ecosystems like Hadoop, Hive, and Spark, alongside a solid grasp of SQL. Furthermore, I hold expertise in integration tools like Talend and SSIS, facilitating seamless data movement across various sources. My enthusiasm for data knows no bounds, and I'm driven to meticulously explore, manipulate, process, and analyze data, ultimately uncovering valuable insights. My relentless pursuit of knowledge and passion for data and machine learning technology fuels my continuous growth, making me a dedicated and results-oriented data aficionado.</h3>
+<h1 align="center">Zain Ul Abdin</h1>
+<h3 align="center">Data Engineer · MSc Information Technology · Working Student @ Lödige Industries</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain-ul-abdin45&label=Profile%20views&color=0e75b6&style=flat" alt="zain-ul-abdin45" /> </p>
-
-- 🔭 I’m currently working on **dataflow over systems**
-
-- 🌱 I’m currently learning **AWS Services**
-
-- 👨‍💻 All of my projects are available at [https://www.notion.so/ZAIN-UL-ABDIN-e8ca907141e649049ec947518afb1ae2](https://tremendous-slice-b86.notion.site/Zain-ul-Abdin-Data-Engineer-14a106eab692424d90c6e6f51fdaf641)
-
-- 💬 Ask me about **Data Pipelines, Data Modeling, Data Orchestrations, ETL, Python, Scala, SQL**
-
-- 📫 How to reach me **zainkhoso45@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1YcrerlhTW0le_xoA3jolqxUcDqm8Wheg?usp=share_link](https://drive.google.com/drive/folders/1YcrerlhTW0le_xoA3jolqxUcDqm8Wheg?usp=share_link)
-
-- ⚡ Fun fact **I love to listen music, watch football and really love to learn everyday.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zain-ul-abdin-ds245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zain-ul-abdin-ds245/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zainulabdin45/home" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zainulabdin45/home" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/zain-ul-abdin-ds245/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@zainkhoso45" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:zainkhoso45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zain-ul-Abdin45&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## About
+
+Data Engineer with 4+ years of production experience building ETL pipelines, data lake architectures, and ML-ready data systems. Currently pursuing an MSc in Information Technology at TH OWL (Lemgo, Germany) with a focus on machine learning systems, while working as a Working Student in Marketing Analytics at Lödige Industries (Paderborn).
+
+Previously at Habib Bank Limited (Karachi), where I designed and maintained pipelines across 8 banking source systems — core banking, mobile banking, loan, and credit card platforms — ingesting data from Oracle into a medallion architecture data lake using Scala, Sqoop, and PySpark. Optimised a credit card ETL workflow from 2 hours to under 10 minutes. Built a FastAPI service backed by MongoDB serving account statement data to the mobile banking application.
+
+I write about data systems and software engineering on Medium.
+
+---
+
+## Currently
+
+- 🎓 MSc Information Technology — TH OWL, Lemgo (2025 – present)
+- 💼 Working Student, Marketing Analytics — Lödige Industries, Paderborn (2025 – present)
+- ✍️ Writing on data systems, async Python, and API security on [Medium](https://medium.com/@zainkhoso45)
+- 🌱 Exploring: dbt, SQLMesh, time series forecasting, agentic AI workflows
+
+---
+
+## Technical Stack
+
+**Languages**
+Python · SQL · Scala · Bash
+
+**Data Engineering**
+Apache Spark · PySpark · Sqoop · Apache Airflow · Hadoop · HDFS · Impala · SSIS · Informatica · Talend
+
+**Databases**
+PostgreSQL · Oracle · MongoDB · Microsoft SQL Server · MySQL
+
+**APIs & Backend**
+FastAPI · REST APIs · JWT · OAuth2 · Django
+
+**Machine Learning**
+scikit-learn · PyTorch · TensorFlow · Pandas · NumPy · Seaborn · Matplotlib
+
+**Data Visualization**
+Power BI · Streamlit · SSRS · Excel
+
+**Platforms & Tools**
+Databricks · Git · KNIME · Jupyter · JIRA · Postman · Linux
+
+---
+
+## Projects
+
+### ANPR Toll Processing System
+End-to-end Automatic Number Plate Recognition system with a full PostgreSQL relational schema covering vehicle ownership, RFID tags, toll transactions, fine management, and security incident tracking. Includes properly indexed foreign key relationships, cascade rules, and lookup tables.
+
+→ [github.com/Zain-ul-Abdin45/ANPR-Toll-Processing](https://github.com/Zain-ul-Abdin45/ANPR-Toll-Processing)
+
+### JWT & OAuth2 in FastAPI
+Production-grade authentication and authorisation implementation covering token construction, scope enforcement, refresh token rotation, and Redis blocklist for logout. Includes bcrypt password hashing, typed token claims to prevent token confusion attacks, and HMAC vs RSA signing comparison.
+
+→ [Medium article](https://medium.com/@zainkhoso45/jwt-oauth2-in-fastapi-from-token-construction-to-scope-enforcement-5b3852cdc4b4) · GitHub: coming soon
+
+### Urban Vitality Survey Pipeline (Lödige Industries)
+End-to-end survey analytics pipeline for a city centre performance study covering 53 decision-makers. Python-based ETL into PostgreSQL, statistical analysis with Matplotlib, findings delivered through a stakeholder presentation and a Power BI dashboard for ongoing monitoring.
+
+---
+
+## Writing
+
+- [JWT & OAuth2 in FastAPI: From Token Construction to Scope Enforcement](https://medium.com/@zainkhoso45/jwt-oauth2-in-fastapi-from-token-construction-to-scope-enforcement-5b3852cdc4b4) — May 2026
+- [Small Shifts, Big Impact: How AI-Enhanced BI is Redefining Forecasting and Business Analysis](https://medium.com/@zainkhoso45/small-shifts-big-impact-how-ai-enhanced-bi-is-redefining-forecasting-and-business-analysis-5b6c75a5e932) — Jul 2025
+- Async Isn't Free: Why Your FastAPI App Is Still Blocking — *coming soon*
+
+---
+
+## Education
+
+**MSc Information Technology** — TH OWL University of Applied Sciences and Arts, Lemgo (2025 – present)
+Classification models (SVM, LDA), Variational Autoencoder (PyTorch), CNN and Transformer architectures for time-series, Neural Network Gaussian Processes
+
+**BSc Electrical Engineering** — Mehran University of Engineering and Technology, Jamshoro (2017 – 2021)
+GPA: 3.59/4.00 (German grade: 1.6) · Specialisation: Programming, Mathematics, Statistics
+
+---
+
+## Certifications
+
+- Databricks Fundamentals — Databricks (2025)
+- Cloud Computing AWS — Dice Analytics (2023)
+
+---
+
+<p align="center">
+  <i>Ask me about data pipelines, ETL architecture, data modeling, PySpark, FastAPI, or anything in between.</i>
+</p>
